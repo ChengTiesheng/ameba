@@ -1,7 +1,6 @@
 package docker
 
 import (
-	"fmt"
 	"testing"
 )
 
